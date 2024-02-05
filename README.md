@@ -10,7 +10,7 @@ VIDEO: https://youtu.be/pN0gOwKkf7A?si=cJswwD57Q9TH2ivQ
 
 For any questions, feel free to ask us on Telegram: https://t.me/rocketgram88
 
-<img width="428" alt="Telegram Rocket" src="https://github.com/kerorokerori/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-Channel-All-In-1-Tool-2024/blob/main/telegram_rocket.png">
+<img width="700" alt="Telegram Rocket" src="https://github.com/kerorokerori/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-Channel-All-In-1-Tool-2024/blob/main/telegram_rocket.png">
 
 Show-Case-Group (+50k real targeted members added + sending message automatically every minute!): https://t.me/rocketgram88
 ### What are the features?
