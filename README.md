@@ -10,39 +10,39 @@ VIDEO: https://youtu.be/pN0gOwKkf7A?si=cJswwD57Q9TH2ivQ
 
 For any questions, feel free to ask us on Telegram: https://t.me/rocketgram88
 
-<img width="428" alt="Telegram Rocket" src="">
+<img width="428" alt="Telegram Rocket" src="https://github.com/kerorokerori/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-Channel-All-In-1-Tool-2024/blob/main/telegram_rocket.png">
 
 Show-Case-Group (+50k real targeted members added + sending message automatically every minute!): https://t.me/rocketgram88
 ### What are the features?
 This tool has a total of 36 features and tons of dynamic sub-features! New ones will be implemented!
 
 - Login with as many accounts as you want! (No Limits)
-![]()
+![](https://github.com/kerorokerori/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-Channel-All-In-1-Tool-2024/blob/main/login.gif)
 - Proxy Supported!
 - Auto-Vote on any polls from any targets!
 - Edit the username/first name/last name/bio/profile picture automatically!
 - All edits can be done automatically by the tool!
 - Scrape more than 150k members from targeted groups! It's also possible to scrape hidden members!
-![]()
+![](https://github.com/kerorokerori/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-Channel-All-In-1-Tool-2024/blob/main/scrape_members.gif)
 - Scrape past messages from any channels/groups/users!
 - Scrape all incoming messages from any channels/groups/users!
 - Use those scraped messages in the auto send messages feature (Mass DM)!
-![]()
+![](https://github.com/kerorokerori/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-Channel-All-In-1-Tool-2024/blob/main/mass-dm.gif)
 - Automatically send messages (MASS DM) to any channels/groups or your scraped members!
 - Automatically forward messages to any channels/groups or your scraped members!
 - Filter only premium members of the scraped members!
 - Add those scraped members to any group/channel you want!
-![]()
+![](https://github.com/kerorokerori/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-Channel-All-In-1-Tool-2024/blob/main/adding.gif)
 - Get any message ID you want!
 - Copy and send all incoming messages of any channels/groups/users to your channels/groups!
-![]()
+![](https://github.com/kerorokerori/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-Channel-All-In-1-Tool-2024/blob/main/copy_channel.gif)
 - Automatically send an AFK-message to anyone who messages you!
 - Automatically join to any channels/groups!
 
-![]()
+![](https://github.com/kerorokerori/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-Channel-All-In-1-Tool-2024/blob/main/Joiner.gif)
 - Automatically leave any channels/groups!
 - Automatically increase the views of your posts without any accounts!
-![]()
+![](https://github.com/kerorokerori/Telegram-Adder-Scraper_BulkMessageSender-Forwarder-FakeViews-Reporter-Channel-All-In-1-Tool-2024/blob/main/views.gif)
 - Automatically increase the views of your posts with accounts!
 - Automatically react to any posts of your targets with emojis!
 - Automatically create API ID and HASH!
