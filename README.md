@@ -4,7 +4,7 @@
 
 Telegram Rocket is a tool for Telegram. Simple to install and easy to use. Updates, new features and support for lifetime!
 
-## BUY HERE: https:/telegramrocket.com
+## BUY HERE: https://telegramrocket.com
 
 VIDEO: https://youtu.be/pN0gOwKkf7A?si=cJswwD57Q9TH2ivQ
 
